@@ -1,0 +1,10 @@
+{
+	"appName": {
+		"message": "Web Extension Vite Infinite Loop Reproduction Example",
+		"description": "Extension name"
+	},
+	"appDescription": {
+		"message": "A minimal web extension to try to reproduce an infinite loop in the vite build command.",
+		"description": "Extension description"
+	}
+}

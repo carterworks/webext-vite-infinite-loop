@@ -1,0 +1,28 @@
+{
+  "name": "webext-vite-infinite-loop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build",
+    "dev": "vite dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/plugin-transform-react-jsx": "7.19.0",
+    "@emotion/babel-plugin": "11.10.5",
+    "@vitejs/plugin-react": "3.0.0",
+    "babel-plugin-jsx-pragmatic": "1.0.2",
+    "vite": "4.0.1",
+    "vite-plugin-web-extension": "1.4.6"
+  },
+  "dependencies": {
+    "@emotion/core": "10.3.1",
+    "@emotion/styled": "10.3.0",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
+  }
+}
